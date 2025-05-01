@@ -1,0 +1,2 @@
+# IOT_based_Human_Activity_Recognization
+
